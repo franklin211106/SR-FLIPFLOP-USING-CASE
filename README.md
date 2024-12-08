@@ -1,6 +1,9 @@
+# name:FRANKLIN.F
+# REF NPO.24900641
+
 # SR-FLIPFLOP-USING-CASE
 
-**AIM:**
+# AIM:
 
 To implement  SR flipflop using verilog and validating their functionality using their functional tables
 
@@ -36,13 +39,15 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 /* write all the steps invloved */
 
-**PROGRAM**
+# PROGRAM
+![Screenshot 2024-12-08 151400](https://github.com/user-attachments/assets/930ad726-7ad3-4b5d-81ba-c9cf0c2ab1eb)
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
 
-**RTL LOGIC FOR FLIPFLOPS**
+# RTL LOGIC FOR FLIPFLOPS
+![Screenshot 2024-12-08 151418](https://github.com/user-attachments/assets/64364889-392f-4163-9f91-486ae709f23b)
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+# TIMING DIGRAMS FOR FLIP FLOPS
+![Screenshot 2024-12-08 151439](https://github.com/user-attachments/assets/37bfb86e-1fc9-4865-b868-9b58c25c5093)
 
-**RESULTS**
+# RESULTS
+To implement  SR flipflop using verilog and validating their functionality using their functional tables
